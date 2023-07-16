@@ -1,1 +1,1 @@
-FROM quay.io/fedora-ostree-desktops/base:38
+FROM quay.io/fedora-ostree-desktops/sericea:38
